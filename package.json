@@ -1,0 +1,22 @@
+{
+  "name": "test-package",
+  "version": "1.0.0",
+  "description": "Test Publish Package to GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heinux-Training/nodejs-test-publish.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "heinhtetwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heinux-Training/nodejs-test-publish/issues"
+  },
+  "homepage": "https://github.com/Heinux-Training/nodejs-test-publish#readme"
+}
