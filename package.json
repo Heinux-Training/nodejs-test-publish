@@ -1,5 +1,5 @@
 {
-  "name": "test-package",
+  "name": "@Heinux-Training/test-package",
   "version": "1.0.0",
   "description": "Test Publish Package to GitHub",
   "main": "index.js",
@@ -14,9 +14,6 @@
   "keywords": [
     "nodejs"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "author": "heinhtetwin",
   "license": "ISC",
   "bugs": {
